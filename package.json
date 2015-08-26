@@ -23,5 +23,8 @@
   "peerDependencies": {
     "tern": "^0.13.0",
     "acorn": "^2.3.0"
+  },
+  "devDependencies": { 
+  	"test": ">=0.0.5" 
   }
 }
