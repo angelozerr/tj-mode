@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/katspaugh/tj-mode#readme",
   "peerDependencies": {
-    "acorn": "^1.0.3",
-    "tern": "^0.11.0"
+    "tern": "^0.13.0",
+    "acorn": "^2.3.0"
   }
 }
